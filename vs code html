@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> meu site com botoes</title>
+    <script>
+        function cliqueBotao() {
+            alert("Você clicou no botão!");
+
+        }
+    </script>
+</head>
+<body>
+    <h1> Meu site simples</h1>
+
+
+    <button onclick="cliqueBotao()">clique aqui</button>
+</body>
+</html>
